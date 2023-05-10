@@ -18,7 +18,7 @@ export default function Hero() {
 						</div>
 					</div>
 				</div>
-				<div style="background-image: url('../assets/images/bg-700.jpg')" className="hidden relative text-white lg:block bg-cover bg-center bg-fixed lg:h-screen">
+				<div style={{ backgroundImage: "url('../src/assets/images/bg-700.jpg')" }} className="hidden relative text-white lg:block bg-cover bg-center bg-fixed lg:h-screen">
 					<div className="absolute left-1/2 -translate-x-1/2 bottom-3 animate-bounce">
 						<p className="font-semibold mb-1">Scroll</p>
 						<svg className="w-10 h-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor">
