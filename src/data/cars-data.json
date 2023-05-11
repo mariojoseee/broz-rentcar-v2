@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"name": "All New Mazda MX-5",
+		"merk": "Mazda",
+		"price": 840000,
+		"image": "../src/assets/images/cars-img/1.png"
+	},
+	{
+		"id": 2,
+		"name": "Avanza 1.3 G MT",
+		"merk": "Toyota",
+		"price": 300000,
+		"image": "../src/assets/images/cars-img/2.png"
+	},
+	{
+		"id": 3,
+		"name": "Xenia 1.3 R MT",
+		"merk": "Daihatsu",
+		"price": 340000,
+		"image": "../src/assets/images/cars-img/3.png"
+	},
+	{
+		"id": 4,
+		"name": "Formo 1.2 MB MT",
+		"merk": "Wuling",
+		"price": 285000,
+		"image": "../src/assets/images/cars-img/4.png"
+	},
+	{
+		"id": 5,
+		"name": "Almaz RS 1.5T Pro 17 Inch",
+		"merk": "Wuling",
+		"price": 330000,
+		"image": "../src/assets/images/cars-img/5.png"
+	},
+	{
+		"id": 6,
+		"name": "Xpander Ultimate",
+		"merk": "Mitsubishi",
+		"price": 570000,
+		"image": "../src/assets/images/cars-img/6.png"
+	},
+	{
+		"id": 7,
+		"name": "APV GL MT",
+		"merk": "Suzuki",
+		"price": 420000,
+		"image": "../src/assets/images/cars-img/7.png"
+	},
+	{
+		"id": 8,
+		"name": "Jimny AT",
+		"merk": "Suzuki",
+		"price": 450000,
+		"image": "../src/assets/images/cars-img/8.png"
+	}
+]
